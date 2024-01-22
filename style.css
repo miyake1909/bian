@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 15px;
+    font-family: 'montserrat', sans-serif;
+    color: #FFBE1D;
+}
+
+* #container{
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #121f03;
+}
+
+header{
+    background-color: #060a01;
+    height: 90px;
+    font-size:large;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font
+}
